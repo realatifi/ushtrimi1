@@ -1,0 +1,11 @@
+.p-10 {
+    padding: 10px;
+}
+
+.bl {
+    border-left: 10px solid rgb(63, 14, 63); 
+}
+
+.bg-primary {
+    background-color: rgb(193, 138, 207);
+}
