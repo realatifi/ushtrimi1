@@ -2,10 +2,10 @@
     padding: 10px;
 }
 
-.bl {
-    border-left: 10px solid rgb(63, 14, 63); 
+.bl-10 {
+    border-left: 10px solid rgb(0, 0, 0); 
 }
 
 .bg-primary {
-    background-color: rgb(193, 138, 207);
+    background-color: rgb(229, 192, 238);
 }
